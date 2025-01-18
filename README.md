@@ -4,11 +4,10 @@ Welcome to my journey of exploring and mastering **Large Language Models (LLMs)*
 
 ---
 
-## 🖼️ Book Cover
+## 🖼️ Hands-on Large Language Models
 
 ![Book Cover](./download.jfif)
 
-*(Add your book cover image to the `images` folder and update the path above.)*
 
 ---
 
