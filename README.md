@@ -6,7 +6,7 @@ Welcome to my journey of exploring and mastering **Large Language Models (LLMs)*
 
 ## 🖼️ Book Cover
 
-![Book Cover](./images/book_cover.jpg)
+![Book Cover](./download.jfif)
 
 *(Add your book cover image to the `images` folder and update the path above.)*
 
