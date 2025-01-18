@@ -1,12 +1,14 @@
-# Exploring Large Language Models: Notes and Projects 🚀
+# Learning Large Language Models: Notes and Projects 🚀
 
-Welcome to my journey of exploring and mastering **Large Language Models (LLMs)**! This repository is based on the incredible book [*Hands-on Large Language Models*](https://example.com) by **Jay Alammar** and **Maarten Grootendorst**. Here, I document my learnings, notes, and hands-on code implementations for each chapter of the book.
+Welcome to my journey of exploring and mastering **Large Language Models (LLMs)**! This repository documents my learnings, notes, and hands-on code implementations for each chapter of the book [*Hands-on Large Language Models*](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) by **Jay Alammar** and **Maarten Grootendorst**.
 
 ---
 
-## 📚 About the Book
+## 🖼️ Book Cover
 
-[*Hands-on Large Language Models*](https://example.com) provides a comprehensive guide to understanding and working with LLMs. From foundational concepts to advanced applications, this book covers everything you need to build, fine-tune, and deploy LLMs for real-world tasks.
+![Book Cover](./images/book_cover.jpg)
+
+*(Add your book cover image to the `images` folder and update the path above.)*
 
 ---
 
